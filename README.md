@@ -8,3 +8,13 @@ The game board is displayed using a responsive layout.
 
 The AI uses the Minimax algorithm to determine the best possible move.
 
+### Technologies Used
+Django 4.1.2
+
+Python
+
+JavaScript
+
+HTML
+
+CSS
